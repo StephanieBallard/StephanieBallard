@@ -1,7 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on a project for a fellowship through Lambda School.
-### 🌱 I’m currently learning all things iOS!
-### 👯 I’m looking to collaborate on a fun iOS app where I can learn new frameworks!
+### 👩🏻‍💻 I’m currently working on a project for a fellowship through Lambda School.
+### 👩🏻‍🎓 I’m currently learning https://github.com/jcgohlke/May21--advanced-data-display! 
 ### 📫 How to reach me: stephanie.ballard87@gmail.com
 
 <!--
