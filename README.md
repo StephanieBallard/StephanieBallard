@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👩🏻‍💻 I’m currently working on a project for a fellowship through Lambda School.
+### 👩🏻‍💻 I’m currently working as a iOS developer for an amazing start up! I can't wait until you see what we are building!
 ### 👩🏻‍🎓 I’m currently learning https://github.com/jcgohlke/May21--advanced-data-display! 
 ### 📫 How to reach me: stephanie.ballard87@gmail.com
 
